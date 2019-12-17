@@ -1,5 +1,5 @@
 {
-  "name": "protool-frontend-react",
+  "name": "@protool/protool-frontend-react",
   "version": "0.0.1-beta.0",
   "description": "React Front end for protool cms",
   "main": "index.js",
