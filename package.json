@@ -1,0 +1,13 @@
+{
+  "name": "@protool/protool-frontend-react",
+  "version": "0.0.1-beta.0",
+  "description": "React Front end for protool cms",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -v",
+    "start": "node -v"
+  },
+  "repository": "git@github.com:protool-dev/protool-frontend-react.git",
+  "author": "Pranav S Kurup <pranavskurup@sentrydock.com>",
+  "license": "Apache-2"
+}
